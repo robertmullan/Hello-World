@@ -15,6 +15,16 @@ Hello World Sample
 
 ### Description 
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+I created a Sample Repository on Github to help others understand the project. 
 
 ### How to Run Program
+
+A link is attached that gives step-by-step directions to run a repository.
+[Github Tutorial](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+
+### Files Used
+
+- Lists
+- Bold
+- Titles
+- 
