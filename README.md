@@ -25,6 +25,14 @@ A link is attached that gives step-by-step directions to run a repository.
 ### Files Used
 
 - Lists
-- Bold
+- **Bold**
 - Titles
-- 
+- *Italicized*
+
+### Additional Information
+
+More **Bold** and *Italicized* words
+
+### Versioning 
+
+I changed the heading by adding another # to each. Also, I added a link to a tutorial on how to access a respository by following the guide. In addition, I added italicized and bold words. 
